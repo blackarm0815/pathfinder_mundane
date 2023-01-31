@@ -1,6 +1,10 @@
 # pathfinder_mundane
 a mod to strip all magic and supernatural from pathfinder
 
+# race
+
+ignore any magical backstory and bonuses
+
 # available classes
 
 Alchemist
@@ -116,9 +120,10 @@ Turn Undead
 
 Widen Spell (Metamagic)
 
+# available prestige classes
 
+Assassin
 
+Duelist
 
-
-
-
+Pathfinder Chronicler
