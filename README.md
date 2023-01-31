@@ -1,7 +1,8 @@
 # pathfinder_mundane
 a mod to strip all magic and supernatural from pathfinder
 
-# classes
+# available classes
+
 Alchemist
 
 Barbarian
@@ -18,3 +19,13 @@ Rogue
 
 Swashbuckler
 
+
+# removed skills
+
+Knowledge (arcana)
+
+Knowledge (religion)
+
+Spellcraft
+
+Use Magical Device
